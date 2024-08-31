@@ -6,8 +6,15 @@
 <p>3 - "AIR Runtimes" Tıkla
 <p>4 - AIR runtime - version 51.1.1.3  /  Adobe AIR for Windows >>> Tıkla ve indir
 
-
 # ADIM 2
+### HİLEYİ İNDİRME
+<p>1 - Hileyi indirme Linki : https://s2.dosya.tc/server31/ab0v4f/8BallRuler.zip.html
+<p>2 - Hileyi masaüstüne yada istediğiniz konuma çıkarın zip'in içinden
+<p>3 - 8BallRuler uygulamasını aç
+
+# ADIM 3
+<p>1 - Oyunun Web Sürümünü Aç : https://8ballpool.com/en/game
+<p>2 - Sanırım Web'den girsenizde Telefondakilerle eşleşiyormussunuz böyle diyorlar
 
 ### SCRCPY İNDİRME
 <p>1 - Scrcpy indirme linki : https://github.com/Genymobile/scrcpy/releases/tag/v2.6.1
@@ -15,13 +22,6 @@
 <p>3 - Telefonunu bilgisayara kablo ile bağla
 <p>4 - Telefon ayarlarından USB HATA AYIKLAMA aç
 <p>5 - Telefon ekranını bilgiyara aktar
-
-
-# ADIM 3
-### HİLEYİ İNDİRME
-<p>1 - Hileyi indirme Linki : https://s2.dosya.tc/server31/ab0v4f/8BallRuler.zip.html
-<p>2 - Hileyi masaüstüne yada istediğiniz konuma çıkarın zip'in içinden
-<p>3 - 8BallRuler uygulamasını aç
 
 
 # HİLE TUŞ KOMUTLARI VE NASIL ÇALIŞIR
