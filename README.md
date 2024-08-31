@@ -14,7 +14,7 @@
 
 ### SCRCPY İNDİRME
 <p>1 - Scrcpy indirme linki : https://github.com/Genymobile/scrcpy/releases/tag/v2.6.1
-<p>2 - scrcpy-server-v2.6.1 - 69.4 KB Tıkla ve indir
+<p>2 - scrcpy-win64-v2.6.1.zip 5.71 MB Tıkla ve indir
 <p>3 - Telefonunu bilgisayara kablo ile bağla
 <p>4 - Telefon ayarlarından USB HATA AYIKLAMA aç
 <p>5 - Telefon ekranını bilgiyara aktar
