@@ -12,10 +12,12 @@
 <p>2 - Hileyi masaüstüne yada istediğiniz konuma çıkarın zip'in içinden
 <p>3 - 8BallRuler uygulamasını aç
 
-# ADIM 3
-<p>1 - Oyunun Web Sürümünü Aç : https://8ballpool.com/en/game
-<p>2 - Sanırım Web'den girsenizde Telefondakilerle eşleşiyormussunuz böyle diyorlar
-
+### SCRCPY İNDİRME
+<p>1 - Scrcpy indirme linki : https://github.com/Genymobile/scrcpy/releases/tag/v2.6.1
+<p>2 - scrcpy-server-v2.6.1 - 69.4 KB Tıkla ve indir
+<p>3 - Telefonunu bilgisayara kablo ile bağla
+<p>4 - Telefon ayarlarından USB HATA AYIKLAMA aç
+<p>5 - Telefon ekranını bilgiyara aktar
 
 # HİLE TUŞ KOMUTLARI VE NASIL ÇALIŞIR
 ### HİLE VERSİON 1
