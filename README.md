@@ -12,6 +12,8 @@
 <p>2 - Hileyi masaüstüne yada istediğiniz konuma çıkarın zip'in içinden
 <p>3 - 8BallRuler uygulamasını aç
 
+# ADIM 3
+
 ### SCRCPY İNDİRME
 <p>1 - Scrcpy indirme linki : https://github.com/Genymobile/scrcpy/releases/tag/v2.6.1
 <p>2 - scrcpy-win64-v2.6.1.zip 5.71 MB Tıkla ve indir
