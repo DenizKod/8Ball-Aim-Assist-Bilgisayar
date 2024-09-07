@@ -1,6 +1,6 @@
 # ADIM 1
 ### AIM ASSIST İNDİRME
-<p>1 - Aim Assist'i indirme Linki : https://s6.dosya.tc/server21/sxa4pl/8Ball_Assist.zip.html
+<p>1 - Aim Assist'i indirme Linki : https://www.mediafire.com/file/w3xndujf1p22npp/8Ball+Assist.zip/file
 <p>2 - Aim Assist'i masaüstüne yada istediğiniz konuma çıkarın zip'in içinden
 <p>3 - 8Ball Assist uygulamasını aç
 
